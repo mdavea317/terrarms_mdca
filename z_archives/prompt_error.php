@@ -1,0 +1,1 @@
+<h2 style="color:red;"><?= htmlspecialchars($error) ?></h2>

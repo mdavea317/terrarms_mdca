@@ -1,0 +1,181 @@
+/*------ FIGTREE ------*/
+
+/* Figtree Black */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Figtree Black Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-blackitalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Figtree Bold */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Figtree Bold Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-bolditalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Figtree ExtraBold */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-extrabold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Figtree ExtraBold Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-extrabolditalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Figtree Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Figtree Light */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Figtree Light Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-lightitalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Figtree Medium */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Figtree Medium Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-mediumitalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Figtree Regular */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Figtree SemiBold */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Figtree SemiBold Italic */
+@font-face {
+  font-family: 'Figtree';
+  src: url('../../wp-themes/fonts/figtree-semibolditalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+
+
+/*------ SORA ------*/
+
+/* Sora Bold */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Sora ExtraBold */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-extrabold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Sora ExtraLight */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Sora Light */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Sora Medium */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Sora Regular */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Sora SemiBold */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Sora Thin */
+@font-face {
+  font-family: 'Sora';
+  src: url('../../wp-themes/fonts/sora-thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
